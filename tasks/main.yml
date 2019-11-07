@@ -1,0 +1,6 @@
+---
+
+- name: sleep for a while
+  wait_for:
+    timeout: "{{ sleep_seconds }}"
+  delegate_to: localhost
