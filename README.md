@@ -6,7 +6,7 @@ sleep for a while
 Description
 -----------
 
-This role is useful when you need to wait a bit between tasks in role dependencies
+This role is useful when you need to wait a bit between role dependencies
 
 Role Variables
 --------------
